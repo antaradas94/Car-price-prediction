@@ -1,6 +1,6 @@
 # Car-price-prediction
 
-Car price prediction using Random Forest Regressor on the Vehicle Dataset(source: https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)
+Car price prediction using Random Forest Regressor on the Vehicle Dataset (source: https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho). 
 A prediction of 91.32% was obtained after feature selection and hyperparameter search. 
 
 The dataset contains attributes such as :
